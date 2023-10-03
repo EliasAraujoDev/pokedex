@@ -12,5 +12,6 @@ Usaremos as seguintes tecnologias em nosso projeto:
 -HTML
 - CSS
 -JavaScript
+-NODE JS
 
 ## Estrutura do Projeto

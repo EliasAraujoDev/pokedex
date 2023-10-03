@@ -13,5 +13,3 @@ Usaremos as seguintes tecnologias em nosso projeto:
 - CSS
 -JavaScript
 -NODE JS
-
-## Estrutura do Projeto

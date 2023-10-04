@@ -9,7 +9,7 @@ Neste documento, descreveremos o desenvolvimento de um aplicativo Pokédex
 ## Tecnologias usadas
 
 Usaremos as seguintes tecnologias em nosso projeto:
--HTML
+- HTML
 - CSS
--JavaScript
--NODE JS
+- JavaScript
+- NODE JS
